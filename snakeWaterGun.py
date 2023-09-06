@@ -82,7 +82,7 @@ if chances>10:
     print("computer's score: ",computer)
 
 
-
+#this is a snake water game in python
 
 
 
